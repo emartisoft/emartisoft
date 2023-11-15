@@ -1,2 +1,2 @@
 ### Hi from GitHUB 👋
-I learned and coded many languages, but C and C++ languages are always with me like my phone.
+I learned many languages and coded, but C and C++ languages are always with me like my phone.
