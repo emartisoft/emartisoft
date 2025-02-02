@@ -1,2 +1,7 @@
-### Hi from GitHUB 👋
-I learned many languages and coded, but C and C++ languages are always with me like my phone.
+
+                              __  .__ 
+  ____   _____ _____ ________/  |_|__|
+_/ __ \ /     \\__  \\_  __ \   __\  |
+\  ___/|  Y Y  \/ __ \|  | \/|  | |  |
+ \___  >__|_|  (____  /__|   |__| |__|
+     \/      \/     \/                
