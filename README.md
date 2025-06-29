@@ -15,12 +15,13 @@ I publish under the name **emarti** on GitHub and Google Play Books.
 - **English Edition**  
   - Title: *Programming with Deno 2*  
   - ASIN: B0F8BZW5J9  
-  - Available on Amazon  
+  - [Available on Amazon](https://a.co/d/8EZPzex)  
   - Repository: https://github.com/emartisoft/programmingwithdeno2
 
 - **Turkish Edition**  
   - Title: *Deno 2 ile Programlama*  
-  - GGKEY: 4XA5YSXC0XZ  
+  - GGKEY: 4XA5YSXC0XZ
+  - [Google Play Kitaplarda İncele](http://books.google.com/books/about?id=38peEQAAQBAJ)
   - Repository: https://github.com/emartisoft/deno2ileprogramlama
 
 ## 🔗 Book Code Access
